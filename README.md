@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **DSA, frontend and backend development.**
+- 🌱 I’m currently learning **DSA, proficient in frontend and backend development.**
 
 - 📫 How to reach me **aloktiwari7880@gmail.com**
 
